@@ -1,0 +1,15 @@
+{
+      "name": "gemini-ai-bot",
+      "version": "1.0.0",
+      "description": "A simple Q&A bot using Gemini AI",
+      "main": "index.js",
+      "scripts": {
+        "dev": "vite"
+      },
+      "dependencies": {
+        "axios": "^0.27.2"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
